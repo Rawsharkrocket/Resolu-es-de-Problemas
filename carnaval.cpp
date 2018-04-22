@@ -1,4 +1,4 @@
-//Resolução do problema: "carnaval" problema original disponivel em http://olimpiada.ic.unicamp.br/pratique/programacao/nivel1/2012f2p1_carnaval
+﻿// Resolução do problema "Carnaval"(link para o problema:https://olimpiada.ic.unicamp.br/pratique/programacao/nivel1/2012f2p1_carnaval/)
 
 #include <iostream>
 using namespace std;
@@ -22,5 +22,5 @@ int main(){
 	}
 	nota=(n[1]+n[2]+n[3]);
 	std::cout.precision(1);
-  std::cout << std::fixed <<nota<<endl;
+	std::cout<<std::fixed<<nota<<endl;
 }
