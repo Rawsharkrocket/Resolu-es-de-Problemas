@@ -1,4 +1,4 @@
-// Resolução do problema "GUERRA12 - Guerra por Território" problema disponivel em: http://br.spoj.com/problems/GUERRA12/
+// ResoluÃ§Ã£o do problema "GUERRA12 - Guerra por TerritÃ³rio" problema disponivel em: http://br.spoj.com/problems/GUERRA12/
 #include <iostream>
 using namespace std;
 int main(){
@@ -14,15 +14,15 @@ int main(){
 			s[i]=v[i];
 		}
 		else{
-	    s[i]=s[i-1]+v[i];
+	    		s[i]=s[i-1]+v[i];
 		}
 	}
 	for (i = 0; i < n; i++){
 		st=0;
 		st=s[n-1];
 		m=i+1;
-    if (s[i]==st-s[i]){
-      cout<<m<<endl;
-	}
+    		if (s[i]==st-s[i]){
+      			cout<<m<<endl;
+		}
 	}
 }
