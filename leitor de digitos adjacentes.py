@@ -18,5 +18,3 @@ if adjacentes:
 
 else:
     print("não")
-            
-    
