@@ -1,4 +1,4 @@
-# Codigo para a dete~ção de cigitos adjacentes.
+# Codigo para a detecção de cigitos adjacentes.
 
 n_orig=n=int(input("Digite um numero:"))
 d_a=n%10
