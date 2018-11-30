@@ -1,4 +1,4 @@
-# Codigo conversor de segundos.
+# Codigo conversor de segundos, converte segundos para dias e horas.
 
 segs=input(" Entre com o número de segundos que deseja converter:")
 T_segs=int(segs)
