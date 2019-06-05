@@ -1,4 +1,4 @@
-#Codigo que calcula equações de segundo grau em python.
+#Codigo que calcula equacoes de segundo grau em python.
 
 a=float(input("Digite aqui o valor de a"))
 b=float(input("Digite aqui o valorde b"))
